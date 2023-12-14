@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM4",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "files.associations": {
+    "queue.h": "c",
+    "esp_spi_flash.h": "c",
+    "sdkconfig.h": "c",
+    "freertos.h": "c",
+    "freertosconfig.h": "c",
+    "task.h": "c",
+    "xlocale": "c",
+    "cstring": "c",
+    "softwaretime.h": "c",
+    "timers.h": "c"
+  }
+}
